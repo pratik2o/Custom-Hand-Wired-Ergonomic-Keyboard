@@ -1,6 +1,6 @@
 # Custom Hand-Wired Ergonomic Keyboard
 
-This repository contains the guide, firmware, and resources for my custom hand-wired ergonomic keyboard. The keyboard is powered by an RP2040 Zero microcontroller and features a fully customizable keymap using [QMK Firmware](https://qmk.fm). It is designed for enhanced productivity and ergonomic comfort.
+This repository contains the firmware and resources for my custom hand-wired ergonomic keyboard. The keyboard is powered by an RP2040 Zero microcontroller and features a fully customizable keymap using [QMK Firmware](https://qmk.fm). It is designed for enhanced productivity and ergonomic comfort.
 
 ![Keyboard Image](/Photos/full%20Keyboard%201.jpg)
 
